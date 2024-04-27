@@ -1,0 +1,171 @@
+So CMND: 123456789
+Ho ten: Cristiano Ronaldo
+Quoc tich: Portugal
+Ngay sinh: 05/02/1985
+Chieu cao: 187.0
+Can nang: 83.0
+Vi tri thi dau: Tien dao
+Thuoc doi bong: Manchester United
+--------------------------
+So CMND: 987654321
+Ho ten: Lionel Messi
+Quoc tich: Argentina
+Ngay sinh: 24/06/1987
+Chieu cao: 169.0
+Can nang: 72.0
+Vi tri thi dau: Tien dao
+Thuoc doi bong: Manchester United
+--------------------------
+So CMND: 5432167890
+Ho ten: Degea
+Quoc tich: Spain
+Ngay sinh: 07/11/1990
+Chieu cao: 192.0
+Can nang: 90.0
+Vi tri thi dau: Thu Mon
+Thuoc doi bong: Manchester United
+--------------------------
+So CMND: 0987612345
+Ho ten: Casemiro
+Quoc tich: Brazin
+Ngay sinh: 02/02/1995
+Chieu cao: 180.0
+Can nang: 83.0
+Vi tri thi dau: Tien Ve
+Thuoc doi bong: Manchester United
+--------------------------
+So CMND: 5647382910
+Ho ten: Martinez
+Quoc tich: Argentina
+Ngay sinh: 03/03/1998
+Chieu cao: 170.0
+Can nang: 80.0
+Vi tri thi dau: Trung Ve
+Thuoc doi bong: Manchester United
+--------------------------
+So CMND: 111122223
+Ho ten: pham quoc duc
+Quoc tich: Portugal
+Ngay sinh: 05/02/2004
+Chieu cao: 187.0
+Can nang: 83.0
+Vi tri thi dau: hoi cup
+Thuoc doi bong: Liverpool FC
+--------------------------
+So CMND: 111222333
+Ho ten: frieren
+Quoc tich: Argentina
+Ngay sinh: 24/06/1000
+Chieu cao: 187.0
+Can nang: 72.0
+Vi tri thi dau: ap
+Thuoc doi bong: Liverpool FC
+--------------------------
+So CMND: 1111111111
+Ho ten: ABCDEFGHTIJK
+Quoc tich: Argentina
+Ngay sinh: 24/06/1000
+Chieu cao: 187.0
+Can nang: 72.0
+Vi tri thi dau: ap
+Thuoc doi bong: Liverpool FC
+--------------------------
+So CMND: 049204009171
+Ho ten: pham quoc duc
+Quoc tich: vietnam
+Ngay sinh: 10/04/2004
+Chieu cao: 300.0
+Can nang: 150.0
+Vi tri thi dau: hau ve
+Thuoc doi bong: Liverpool FC
+--------------------------
+So CMND: 444455555
+Ho ten: vinicius Jr
+Quoc tich: Brazin
+Ngay sinh: 05/02/1980
+Chieu cao: 187.0
+Can nang: 83.0
+Vi tri thi dau: Tien dao
+Thuoc doi bong: Real Madrid
+--------------------------
+So CMND: 102220253
+Ho ten: Le Nguyen Thanh That
+Quoc tich: VietNam
+Ngay sinh: 12/07/2004
+Chieu cao: 175.0
+Can nang: 60
+Vi tri thi dau: Tien Dao
+Thuoc doi bong: Real Madrid
+--------------------------
+So CMND: 1497398458
+Ho ten: Rodrygo
+Quoc tich: Brazin
+Ngay sinh: 01/01/2000
+Chieu cao: 178.0
+Can nang: 73.0
+Vi tri thi dau: Tien Dao
+Thuoc doi bong: Real Madrid
+--------------------------
+So CMND: 246813579
+Ho ten: Valverde
+Quoc tich: Uruguay
+Ngay sinh: 22/07/1998
+Chieu cao: 182.0
+Can nang: 70.0
+Vi tri thi dau: Tien Ve
+Thuoc doi bong: Real Madrid
+--------------------------
+So CMND: 1392786264
+Ho ten: Courtois
+Quoc tich: Belgium
+Ngay sinh: 11/05/1992
+Chieu cao: 200.0
+Can nang: 96.0
+Vi tri thi dau: Thu Mon
+Thuoc doi bong: Real Madrid
+--------------------------
+So CMND: 123123
+Ho ten: duc pham
+Quoc tich: vietnam
+Ngay sinh: 10/04/2023
+Chieu cao: 180
+Can nang: 75
+Vi tri thi dau: hau ve
+Thuoc doi bong: Manchester City
+--------------------------
+So CMND: 1029384578
+Ho ten: Ederson
+Quoc tich: Brazin
+Ngay sinh: 04/04/1999
+Chieu cao: 195.0
+Can nang: 87.0
+Vi tri thi dau: Thu Mon
+Thuoc doi bong: Manchester City
+--------------------------
+So CMND: 7777777777
+Ho ten: Haaland
+Quoc tich: Norway
+Ngay sinh: 05/05/2000
+Chieu cao: 194.0
+Can nang: 95.0
+Vi tri thi dau: Tien Dao
+Thuoc doi bong: Manchester City
+--------------------------
+So CMND: 5555555555
+Ho ten: Kevin De Bruyne
+Quoc tich: Belgium
+Ngay sinh: 07/07/1992
+Chieu cao: 180.0
+Can nang: 75.0
+Vi tri thi dau: Tien Ve
+Thuoc doi bong: Manchester City
+--------------------------
+So CMND: 444444444
+Ho ten: Rodri
+Quoc tich: Spain
+Ngay sinh: 08/08/1996
+Chieu cao: 190.0
+Can nang: 80.0
+Vi tri thi dau: Tien Ve
+Thuoc doi bong: Manchester City
+--------------------------
